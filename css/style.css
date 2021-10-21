@@ -10,6 +10,16 @@ h1 {
 }
 
 p {
+<<<<<<< HEAD
     color: aqua;
     font-size: 35px;
 }
+=======
+    color: pink;
+    font-size: 1.5rem;
+}
+
+h2 {
+    color: blue;
+}
+>>>>>>> e13bd587eee81d4116544e346489ded08b7c57cd
